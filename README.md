@@ -4,9 +4,13 @@ http://www.kuqin.com/shuoit/20160105/349807.html    http://www.kuqin.com/shuoit/
 http://www.kuqin.com/shuoit/20141105/343036.html     http://www.kuqin.com/shuoit/20141007/342480.html
 http://www.kuqin.com/shuoit/20140928/342392.html     http://www.kuqin.com/shuoit/20160217/350722.html
 
-Python、web开发等其它知识学习(Http协议学习)：http://www.kuqin.com/shuoit/20160114/350042.html    
+Python、web开发等其它知识学习(Http协议学习,加密)：http://www.kuqin.com/shuoit/20160114/350042.html    
 http://www.kuqin.com/shuoit/20160114/350029.html        http://www.kuqin.com/shuoit/20141120/343321.html
 http://www.kuqin.com/shuoit/20160217/350717.html         http://www.codeceo.com/article/java-web-spring-mvc.html
+http://www.imooc.com/article/3798      http://www.kuqin.com/shuoit/20140814/341686.html
+http://www.kuqin.com/shuoit/20140731/341481.html           http://www.imooc.com/article/3582
+https://segmentfault.com/a/1190000004569460         https://segmentfault.com/a/1190000004570180
+http://www.kuqin.com/shuoit/20160311/351126.html
 
 
 安卓资源类(学习)网址：https://github.com/zhujun2730/Android-Learning-Resources    http://www.kuqin.com/shuoit/20140721/341305.html
@@ -17,6 +21,8 @@ http://www.kuqin.com/shuoit/20150928/348312.html     http://www.kuqin.com/shuoit
 安卓开发技巧总结和性能优化(解决崩溃)及APP瘦身(项目重构)：http://www.codeceo.com/article/android-dev-60-tips.html   http://www.codeceo.com/article/android-app-slimming-guide.html  http://www.imooc.com/article/4095
 http://www.kuqin.com/shuoit/20150120/344489.html       http://www.kuqin.com/shuoit/20150928/348295.html(strictmode)
 http://www.kuqin.com/shuoit/20151014/348514.html      http://www.kuqin.com/shuoit/20151207/349359.html
+http://www.kuqin.com/shuoit/20160309/351075.html
+
 
 Android新手必备的常用代码片段整理(源代码在线查看)：http://www.imooc.com/article/2796    http://www.kuqin.com/shuoit/20151225/349632.html
  http://www.kuqin.com/shuoit/20150316/345264.html     http://www.kuqin.com/shuoit/20151229/349671.html
@@ -52,17 +58,24 @@ http://www.kuqin.com/shuoit/20160214/350615.html     http://www.codeceo.com/arti
 
 算法数据结构学习：http://www.kuqin.com/shuoit/20150929/348338.html   http://www.kuqin.com/shuoit/20150914/348055.html
 
-程序猿鸡汤(自我技术修养,学习之路)：http://www.kuqin.com/shuoit/20150831/347811.html    http://www.kuqin.com/shuoit/20150922/348216.html
+程序猿鸡汤(自我技术修养,学习之路,技术博客)：http://www.kuqin.com/shuoit/20150831/347811.html    http://www.kuqin.com/shuoit/20150922/348216.html
 http://www.kuqin.com/shuoit/20150211/344798.html     http://www.kuqin.com/shuoit/20150909/347929.html
 http://www.kuqin.com/shuoit/20151217/349499.html   http://www.kuqin.com/shuoit/20151218/349512.html
 http://www.kuqin.com/shuoit/20160112/350005.html      http://www.codeceo.com/article/8-android-dev-challenges.html
 http://www.kuqin.com/shuoit/20140910/342095.html      http://www.kuqin.com/shuoit/20160224/350810.html
-http://www.uisdc.com/cost-of-developing-a-app
+http://www.uisdc.com/cost-of-developing-a-app     http://www.kuqin.com/shuoit/20160301/350887.html
+http://www.codeceo.com/article/programming-10000-hours.html
+http://weibo.com/ttarticle/p/show?id=2309403950016476635122      https://segmentfault.com/a/1190000004561933
+http://www.codeceo.com/article/alphago-analysis.html      http://www.kuqin.com/shuoit/20140731/341485.html
+
 
 安卓软件插件等资源(反编译工具,黑客工具)：http://www.kuqin.com/shuoit/20150825/347779.html        http://www.kuqin.com/shuoit/20150316/345249.html
 http://www.codeceo.com/article/6-android-sdk-and-api.html    http://www.kuqin.com/shuoit/20150112/344337.html  
 http://www.kuqin.com/shuoit/20151201/349270.html     http://www.kuqin.com/shuoit/20160120/350171.html
 http://www.kuqin.com/shuoit/20141117/343248.html       http://www.codeceo.com/article/2016-hecker-tools.html
+https://segmentfault.com/a/1190000004567434      http://www.kuqin.com/shuoit/20160310/351112.html
 
+安卓N:http://www.kuqin.com/shuoit/20160311/351127.html
 
-安卓源码类实现：
+安卓源码类实现：http://www.codeceo.com/article/android-loaders-learn.html
+http://www.kuqin.com/shuoit/20160311/351123.html

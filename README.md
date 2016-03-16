@@ -1,5 +1,6 @@
 # androidLearnRes
-Git&Github学习：http://www.kuqin.com/shuoit/20160105/349807.html    http://www.kuqin.com/shuoit/20151230/349721.html
+#Git&Github学习：
+http://www.kuqin.com/shuoit/20160105/349807.html    http://www.kuqin.com/shuoit/20151230/349721.html
 http://www.kuqin.com/shuoit/20141105/343036.html     http://www.kuqin.com/shuoit/20141007/342480.html
 http://www.kuqin.com/shuoit/20140928/342392.html     http://www.kuqin.com/shuoit/20160217/350722.html
 
